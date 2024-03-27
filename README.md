@@ -524,9 +524,13 @@ Vercel support natively monorepos, see the [vercel-monorepo-deploy](./docs/deplo
 
 There's a basic example for building a docker image, read the [docker doc](./docs/docker/docker.md).
 
+### AWS Amplify
+
+AWS Amplify supports monorepos with minimal configuration. See [Monorepo build settings](https://docs.aws.amazon.com/amplify/latest/userguide/monorepo-configuration.html)
+
 ### Others
 
-Netlify, aws-amplify, k8s-docker, serverless-nextjs recipes might be added in the future. PR's welcome too.
+Netlify, k8s-docker, serverless-nextjs recipes might be added in the future. PR's welcome too.
 
 ## FAQ
 
